@@ -8,14 +8,14 @@ class Solution {
 
         for(int i =0 ; i<n ; i++){
             
-            int ele = nums[i];
+            // int ele = nums[i];
 
-            if(first>=ele){
-                first = ele;
-            }else if(second >= ele){
-                second = ele;
+            if(first>=nums[i]){
+                first = nums[i];
+            }else if(second >= nums[i]){
+                second = nums[i];
             }else{
-                third = ele;
+                third = nums[i];
                 return true;
             }
             
