@@ -8,11 +8,10 @@ class Solution {
             if(nums[i-1]<nums[i]){
                 current_sum = current_sum + nums[i];
             }else{
-                maximum_sum = Math.max(current_sum,maximum_sum);
                 current_sum = nums[i];
             }
+            maximum_sum = Math.max(current_sum,maximum_sum);
         }
-        maximum_sum = Math.max(current_sum,maximum_sum);
         return maximum_sum;
     }
 }
