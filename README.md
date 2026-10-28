@@ -46,6 +46,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pavankumar7286/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavankumar7286/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavankumar7286/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/pavankumar7286/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavankumar7286/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/pavankumar7286/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pavankumar7286/LeetCode/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pavankumar7286/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavankumar7286/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavankumar7286/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/pavankumar7286/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavankumar7286/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/pavankumar7286/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/pavankumar7286/LeetCode/tree/master/0704-binary-search) |
