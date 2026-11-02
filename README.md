@@ -25,6 +25,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pavankumar7286/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pavankumar7286/LeetCode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/pavankumar7286/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/pavankumar7286/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -47,6 +48,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pavankumar7286/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavankumar7286/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pavankumar7286/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/pavankumar7286/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pavankumar7286/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pavankumar7286/LeetCode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavankumar7286/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -104,6 +106,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/pavankumar7286/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/pavankumar7286/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/pavankumar7286/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/pavankumar7286/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavankumar7286/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavankumar7286/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -136,4 +139,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pavankumar7286/LeetCode/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pavankumar7286/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pavankumar7286/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
