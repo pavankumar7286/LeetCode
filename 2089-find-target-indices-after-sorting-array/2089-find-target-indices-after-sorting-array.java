@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
 
-        ArrayList<Integer> ans = new ArrayList<>(nums.length);
+        ArrayList<Integer> ans = new ArrayList<>();
 
         Arrays.sort(nums);
 
