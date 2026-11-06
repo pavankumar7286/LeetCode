@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pavankumar7286/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/pavankumar7286/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/pavankumar7286/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pavankumar7286/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/pavankumar7286/LeetCode/tree/master/0319-bulb-switcher) |
@@ -50,6 +51,7 @@
 | [0035-search-insert-position](https://github.com/pavankumar7286/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/pavankumar7286/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pavankumar7286/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/pavankumar7286/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/pavankumar7286/LeetCode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavankumar7286/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pavankumar7286/LeetCode/tree/master/0162-find-peak-element) |
