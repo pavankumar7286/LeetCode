@@ -28,8 +28,9 @@ class MyStack {
     }
     
     public boolean empty() {
-        if(main.size()==0) return true;
-        else return false; 
+        // if(main.size()==0) return true;
+        // else return false; 
+        return main.isEmpty();
     }
 }
 
