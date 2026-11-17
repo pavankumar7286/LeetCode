@@ -184,6 +184,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/pavankumar7286/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/pavankumar7286/LeetCode/tree/master/0179-largest-number) |
 ## Quickselect
 |  |
