@@ -154,6 +154,7 @@
 | [0316-remove-duplicate-letters](https://github.com/pavankumar7286/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/pavankumar7286/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/pavankumar7286/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pavankumar7286/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -179,17 +180,20 @@
 | [0225-implement-stack-using-queues](https://github.com/pavankumar7286/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pavankumar7286/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/pavankumar7286/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pavankumar7286/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pavankumar7286/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/pavankumar7286/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pavankumar7286/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/pavankumar7286/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/pavankumar7286/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/pavankumar7286/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pavankumar7286/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Quickselect
 |  |
 | ------- |
