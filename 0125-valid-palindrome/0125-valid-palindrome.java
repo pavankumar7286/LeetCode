@@ -13,9 +13,7 @@ class Solution {
         }
         String s1 = sb.toString().toLowerCase();
         String s2 = sb1.toString().toLowerCase();
-        if(s1.equals(s2)){
-            return true;
-        }
-        return false;
+        
+        return s1.equals(s2);
     }
 }
