@@ -6,14 +6,6 @@ class Solution {
                 sb.append(s.charAt(i));
             }
         }
-        StringBuilder sb1 = new StringBuilder(sb);
-        sb1.reverse();
-        if(sb.length()==0){
-            return true;
-        }
-        String s1 = sb.toString().toLowerCase();
-        String s2 = sb1.toString().toLowerCase();
-        
-        return s1.equals(s2);
+        return sb.toString().toLowerCase().equals(sb.reverse().toString().toLowerCase());
     }
 }
