@@ -76,6 +76,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/pavankumar7286/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavankumar7286/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pavankumar7286/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1572-matrix-diagonal-sum](https://github.com/pavankumar7286/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/pavankumar7286/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pavankumar7286/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pavankumar7286/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -251,4 +252,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/pavankumar7286/LeetCode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pavankumar7286/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/pavankumar7286/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
